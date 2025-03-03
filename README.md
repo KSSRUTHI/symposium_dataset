@@ -45,7 +45,7 @@ This dataset is designed for **unsupervised sentiment analysis** and consists of
 - The **clustering approach** is useful for **unsupervised sentiment analysis applications**.  
 - The **train-test datasets** are structured for **ML model evaluation**.
 
-## Next Steps 🚀  
+## Next Steps 
 Improve clustering accuracy using **word embeddings (Word2Vec, BERT, etc.)**.  
 Validate clustering with **sentiment lexicons**.  
 Train a **classification model** using the labeled dataset.  
