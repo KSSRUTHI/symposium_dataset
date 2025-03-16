@@ -5,7 +5,6 @@ This dataset is designed for **unsupervised sentiment analysis** and consists of
 
 ## Dataset Files
 - 📂 **`sentiment_dataset_1.csv`** – Original unlabelled dataset with raw text reviews.
-- 📂 **`sentiment_dataset_with_labels.csv`** – Processed dataset with assigned sentiment labels.
 - 📂 **`sentiment_train.csv`** – 80% of the labeled dataset used for training.
 - 📂 **`sentiment_test.csv`** – 20% of the labeled dataset used for testing.
 
@@ -41,7 +40,6 @@ This dataset is designed for **unsupervised sentiment analysis** and consists of
 - 📂 **`sentiment_test.csv`** – Used to evaluate model performance.
 
 ## Usage  
-- The **`sentiment_dataset_with_labels.csv`** can be used for **supervised sentiment classification**.  
 - The **clustering approach** is useful for **unsupervised sentiment analysis applications**.  
 - The **train-test datasets** are structured for **ML model evaluation**.
 
